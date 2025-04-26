@@ -6,4 +6,4 @@
 ### why use this?
 * Use if you want to, but ByteBox provides benifits such as fast speeds and a custom .bytebox file extension!
 ### how to download?
-* Download the latest release [here](https://example.com)
+* Download the latest release [here](https://github.com/BlueDragon7327/ByteBox/releases/latest/download/ByteBox.exe)
